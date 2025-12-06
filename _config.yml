@@ -19,8 +19,16 @@ navigation:
     url: /
   - title: "Projects"
     url: /projects/
+  - title: "Skills"
+    url: /skills/
   - title: "About"
     url: /about/
+  - title: "Contact"
+    url: /contact/
+  - title: "Resume"
+    url: /assets/resume.pdf
+    external: true
+
 
 collections:
   projects:
