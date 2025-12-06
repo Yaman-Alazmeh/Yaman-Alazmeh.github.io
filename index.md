@@ -2,6 +2,8 @@
 layout: home
 title: "Welcome"
 author_profile: true
+header:
+  overlay_nav: true
 ---
 
 Check out my [Projects](/projects/) or learn more [About me](/about/).
