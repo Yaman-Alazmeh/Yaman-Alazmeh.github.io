@@ -14,7 +14,7 @@ plugins:
 # Author info
 author:
   name: "Yaman Alazmeh"
-  avatar: "/assets/images/avatar.png"
+  avatar: "/assets/images/avatar.jpg"
   bio: "Software engineer and game developer."
 
 # Navigation bar (Minimal Mistakes official format)
