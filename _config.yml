@@ -1,79 +1,26 @@
 title: "Yaman Alazmeh — Portfolio"
 description: "Game developer • Unreal Engine • Software Engineer"
 
-# Website URL
 url: "https://yaman-alazmeh.github.io"
-baseurl: ""   # IMPORTANT: keep empty for user sites
+baseurl: ""
 
-# Theme
 remote_theme: "mmistakes/minimal-mistakes"
 
-# Plugins
 plugins:
   - jekyll-include-cache
 
-# Author info
 author:
   name: "Yaman Alazmeh"
   avatar: "/assets/images/avatar.jpg"
   bio: "Software engineer and game developer."
 
-# ============================================
-# MAIN TOP NAVIGATION BAR  ✔✔✔
-# ============================================
-nav:
-  - title: "Home"
-    url: /
-  - title: "Projects"
-    url: /projects/
-    children:
-      - title: "Game Dev Projects"
-        url: /projects/#game-dev
-      - title: "Tools & Utilities"
-        url: /projects/#tools
-  - title: "Skills"
-    url: /skills/
-  - title: "About"
-    url: /about/
-  - title: "Contact"
-    url: /contact/
-  - title: "Resume"
-    url: /assets/resume.pdf
-    external: true
-
-# ============================================
-# OPTIONAL SIDEBAR (appears on certain pages)
-# ============================================
-sidebar:
-  nav:
-    - title: "Portfolio Sections"
-      children:
-        - title: "Overview"
-          url: /about/
-        - title: "Projects"
-          url: /projects/
-        - title: "Skills"
-          url: /skills/
-        - title: "Contact"
-          url: /contact/
-
-# ============================================
-# PROJECTS COLLECTION
-# ============================================
 collections:
   projects:
     output: true
     permalink: /projects/:name/
 
-# ============================================
-# REQUIRED FOR NAVIGATION TO WORK ✔✔✔
-# This is what activates the top navigation bar.
-# ============================================
 defaults:
   - scope:
       path: ""
     values:
       layout: single
-      nav: true
-      header:
-        overlay_nav: true
