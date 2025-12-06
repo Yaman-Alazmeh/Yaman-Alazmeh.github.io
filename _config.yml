@@ -1,0 +1,28 @@
+title: "Yaman Alazmeh — Portfolio"
+description: "Game developer • Unreal Engine • Software Engineer"
+baseurl: ""        # leave blank for user site
+url: "https://your-username.github.io"
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+
+# Minimal Mistakes settings (basic)
+author:
+  name: "Yaman Alazmeh"
+  avatar: /assets/images/avatar.png
+  bio: "Unreal Engine developer and software engineer."
+
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "About"
+    url: /about/
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
