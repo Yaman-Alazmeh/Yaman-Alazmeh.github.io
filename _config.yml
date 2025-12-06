@@ -19,6 +19,11 @@ navigation:
     url: /
   - title: "Projects"
     url: /projects/
+    children:
+      - title: "Game Dev"
+        url: /projects/#game-dev
+      - title: "Tools"
+        url: /projects/#tools
   - title: "Skills"
     url: /skills/
   - title: "About"
