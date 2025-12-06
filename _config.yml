@@ -1,19 +1,23 @@
 title: "Yaman Alazmeh — Portfolio"
 description: "Game developer • Unreal Engine • Software Engineer"
-baseurl: ""        # leave blank for user site
-url: "https://your-username.github.io"
 
+# IMPORTANT: Change this to your real GitHub username
+url: "https://yaman-alazmeh.github.io/"
+baseurl: ""   # Keep empty for user sites
+
+# Theme
 remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-include-cache
 
-# Minimal Mistakes settings (basic)
+# Author info
 author:
   name: "Yaman Alazmeh"
-  avatar: /assets/images/avatar.png
-  bio: "Software engineer and game Developer."
+  avatar: "/assets/images/avatar.png"
+  bio: "Software engineer and game developer."
 
+# Navigation bar (Minimal Mistakes official format)
 navigation:
   - title: "Home"
     url: /
@@ -33,18 +37,8 @@ navigation:
   - title: "Resume"
     url: /assets/resume.pdf
     external: true
-    
-nav:
-  - name: Home
-    link: /
-  - name: About
-    link: /about/
-  - name: Projects
-    link: /projects/
-  - name: Contact
-    link: /contact/
 
-
+# Collections (optional but useful)
 collections:
   projects:
     output: true
