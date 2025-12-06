@@ -1,1 +1,20 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+    children:
+      - title: "Game Dev Projects"
+        url: /projects/#game-dev
+      - title: "Tools & Utilities"
+        url: /projects/#tools
+  - title: "Skills"
+    url: /skills/
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
+  - title: "Resume"
+    url: /assets/resume.pdf
+    external: true
 
