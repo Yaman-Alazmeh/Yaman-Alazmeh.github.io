@@ -1,11 +1,9 @@
 title: "Yaman Alazmeh — Portfolio"
 description: "Game developer • Unreal Engine • Software Engineer"
 
-# IMPORTANT: Change this to your real GitHub username
-url: "https://yaman-alazmeh.github.io/"
-baseurl: ""   # Keep empty for user sites
+url: "https://yaman-alazmeh.github.io"
+baseurl: ""
 
-# Theme
 remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
@@ -17,16 +15,18 @@ author:
   avatar: "/assets/images/avatar.jpg"
   bio: "Software engineer and game developer."
 
-# Navigation bar (Minimal Mistakes official format)
+# ============================================
+# TOP NAVIGATION BAR (like official documentation)
+# ============================================
 navigation:
   - title: "Home"
     url: /
   - title: "Projects"
     url: /projects/
     children:
-      - title: "Game Dev"
+      - title: "Game Dev Projects"
         url: /projects/#game-dev
-      - title: "Tools"
+      - title: "Tools & Utilities"
         url: /projects/#tools
   - title: "Skills"
     url: /skills/
@@ -38,28 +38,25 @@ navigation:
     url: /assets/resume.pdf
     external: true
 
+# ============================================
+# SECONDARY NAVIGATION (OPTIONAL)
+# Appears in documentation-style pages (left sidebar)
+# ============================================
+sidebar:
+  - title: "Portfolio Sections"
+    nav:
+      - title: "Overview"
+        url: /about/
+      - title: "Projects"
+        url: /projects/
+      - title: "Skills"
+        url: /skills/
+      - title: "Contact"
+        url: /contact/
 
-main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
-  - title: "Posts"
-    url: /year-archive/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "Pages"
-    url: /page-archive/
-  - title: "Collections"
-    url: /collection-archive/
-  - title: "External Link"
-    url: https://google.com
-    target: _blank
-
-
-    
-
-# Collections (optional but useful)
+# ============================================
+# COLLECTION FOR PROJECTS
+# ============================================
 collections:
   projects:
     output: true
