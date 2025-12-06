@@ -1,0 +1,14 @@
+---
+title: "Resident Evil Style Survival Game"
+categories: [Game Dev, Unreal Engine]
+featured: /assets/images/project_re1.png
+---
+
+A third-person survival game built with Unreal Engine 4.  
+Features:
+- AI zombies
+- Companion AI bot
+- Inventory & shooting systems
+
+### Screenshots
+![Gameplay](/assets/images/project_re1.png)
