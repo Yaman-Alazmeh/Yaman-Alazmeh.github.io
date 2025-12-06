@@ -4,12 +4,14 @@ title: "Welcome"
 author_profile: true
 ---
 
-## Hi — I'm Yaman Alazmeh
+## Hi
 
-I build games and systems with Unreal Engine and C++.  
-I’m applying to master's programs and this portfolio shows my best projects.
+I am a Syrian Software engineer and Game developer using Unreal Engine. 
+This is the place were i show my different projects throughout the five years since i started this jounry back to 2020.
+There are university pojects and there are personal ones so feel free to browse whatever you like
+Enjoy!
 
-You can find:
-- Game dev projects (Unreal Engine)
-- AI/Tools and programming projects
-- Contact info and resume
+- Contact info and resume:
+- Facebook: Yaman Alazmeh
+- Instagram yaman_alazmeh
+- LinkedIn https://www.linkedin.com/in/yaman-alazmeh-643799276
