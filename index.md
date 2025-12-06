@@ -3,7 +3,16 @@ layout: home
 title: "Welcome"
 author_profile: true
 ---
-
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "Skills"
+    url: /skills/
+  - title: "About"
+    url: /about/
+    
 ## Hi
 
 I am a Syrian Software engineer and Game developer using Unreal Engine. 
