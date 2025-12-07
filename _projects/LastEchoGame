@@ -10,10 +10,8 @@ Features:
 - Companion AI bot
 - Inventory & shooting systems
 
-[Watch My Video](https://www.youtube.com/watch?v=CTqqvaVKAJU&list=PLLFyoSxIy_FMVkBgJNAogf-6KRuHjGKeO){:target="_blank" rel="noopener noreferrer"}
-
-
-
+### Gameplay Video
+{% include video id="CTqqvaVKAJU" provider="youtube" %}
 
 ### Screenshots
-![Gameplay](/assets/images/project_re1.png)
+{% include figure image_path="/assets/images/project_re1.png" caption="Main Gameplay" %}
