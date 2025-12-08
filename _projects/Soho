@@ -3,3 +3,6 @@ title: "Soho Shopping Website"
 ---
 
 A university project for the web programming 1 subject
+
+### Screenshots
+{% include figure image_path="/assets/images/SohoProject/Soho1.png" caption="Main Gameplay" %}
