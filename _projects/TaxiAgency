@@ -1,0 +1,34 @@
+---
+title: "Taxi Agency Website"
+---
+
+🚕 Taxi Agency Management System
+
+ASP.NET Web Forms • C# • MySQL • phpMyAdmin
+
+This project is a complete online taxi management system built with ASP.NET Web Forms (C#) and MySQL. It simulates the workflow of a real taxi agency, including users, drivers, employees, managers, and administrators. The system covers all operations required to run a taxi service—from customer trip requests to driver acceptance, billing, HR, maintenance, and travel management.
+
+The project includes multiple user roles, each with dedicated functionality and custom dashboards.
+
+Key Features:
+
+1. Unified Login System
+2. User (Customer) Features
+3. Driver Features
+4. HR Department
+5. Travel Department
+6. Finance Department
+7. Maintenance Department
+8. Administrator Features
+9. Database
+
+This Taxi Agency system is a fully functional multi-role web application that covers all major components of a real taxi business. Built using ASP.NET Web Forms, C#, SQL queries, and MySQL database, it demonstrates strong understanding of backend logic, UI development, role-based access, CRUD operations, and multi-department workflow.
+
+
+
+Screenshots
+{% include figure image_path="/assets/images/TaxiAgency/wp21.png" caption="Home Page" %}
+{% include figure image_path="/assets/images/TaxiAgency/wp22.png" caption="Home Page" %}
+{% include figure image_path="/assets/images/TaxiAgency/wp23.png" caption="Home Page" %}
+{% include figure image_path="/assets/images/TaxiAgency/wp24.png" caption="Home Page" %}
+{% include figure image_path="/assets/images/TaxiAgency/wp25.png" caption="Home Page" %}
