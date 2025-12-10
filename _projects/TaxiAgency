@@ -2,7 +2,7 @@
 title: "Taxi Agency Website"
 ---
 
-🚕 Taxi Agency Management System
+Taxi Agency Management System
 
 ASP.NET Web Forms • C# • MySQL • phpMyAdmin
 
@@ -27,8 +27,8 @@ This Taxi Agency system is a fully functional multi-role web application that co
 
 
 Screenshots
-{% include figure image_path="/assets/images/TaxiAgency/wp21.png" caption="Home Page" %}
-{% include figure image_path="/assets/images/TaxiAgency/wp22.png" caption="Home Page" %}
-{% include figure image_path="/assets/images/TaxiAgency/wp23.png" caption="Home Page" %}
-{% include figure image_path="/assets/images/TaxiAgency/wp24.png" caption="Home Page" %}
-{% include figure image_path="/assets/images/TaxiAgency/wp25.png" caption="Home Page" %}
+{% include figure image_path="/assets/images/TaxiAgency/wp21.png" caption="Sign in page" %}
+{% include figure image_path="/assets/images/TaxiAgency/wp22.png" caption="Sign up page" %}
+{% include figure image_path="/assets/images/TaxiAgency/wp23.png" caption="Admin Page" %}
+{% include figure image_path="/assets/images/TaxiAgency/wp24.png" caption="Ordering a taxi Page" %}
+{% include figure image_path="/assets/images/TaxiAgency/wp25.png" caption="Database" %}
