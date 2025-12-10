@@ -9,7 +9,7 @@ ASP.NET Web Forms • C# • MySQL • phpMyAdmin
 It simulates the workflow of a real taxi agency, including users, drivers, employees, managers, and administrators. The system covers all operations required to run a taxi service from customer trip requests to driver acceptance, billing, HR, maintenance, and travel management.
 
 The project includes multiple user roles, each with dedicated functionality and custom dashboards.
-<br>
+<br><br>
 Key Features:
 <br>
 1. Unified Login System<br>
@@ -23,7 +23,7 @@ Key Features:
 9. Database<br>
 
 
-
+<br><br>
 
 Screenshots
 {% include figure image_path="/assets/images/TaxiAgency/wp21.png" caption="Sign in page" %}
