@@ -3,32 +3,14 @@ title: "Network Security Project"
 ---
 
 
-
-
-
-This project is a practical cybersecurity assignment where I built a full penetration-testing environment using Kali Linux,
-Metasploitable 2, and VMware. The goal was to understand how attackers find and exploit vulnerabilities in a safe, controlled lab.
-
-
-Penetration Testing & Vulnerability Exploitation
-
-This project focuses on practical cybersecurity, where I learned how attackers find and exploit weaknesses in computer systems.
-I created a full virtual lab using VMware, with Kali Linux as the attacker machine and Metasploitable 2 as the vulnerable target.
-
-
-
-This project gave me hands-on experience with:
-
-Ethical hacking
-
-Vulnerability scanning
-
-Exploitation using Metasploit
-
-Secure system configuration
-
-Understanding how attackers think and operate
-
+This project demonstrates my understanding of practical cybersecurity through building a complete penetration-testing environment using Kali Linux and Metasploitable 2.
+I created an isolated virtual lab where I performed vulnerability discovery, exploitation, and analysis in a controlled,
+ethical setting. Using tools such as Nmap and the Metasploit Framework, I scanned the target machine, identified outdated services,
+and exploited real security weaknesses like the vsftpd 2.3.4 backdoor. 
+After gaining remote shell access, I analyzed the system, reviewed user accounts and directories, and observed how insecure configurations can be abused by attackers. 
+The goal of the project was not only to execute successful exploits but also to understand the underlying risks and propose security improvements such as patching vulnerable services, 
+limiting open ports, and strengthening network configurations. 
+This hands-on experience gave me a strong foundation in ethical hacking, system hardening, and real-world network security practices.
 
 
 
