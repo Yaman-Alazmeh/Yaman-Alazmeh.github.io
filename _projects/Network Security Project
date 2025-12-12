@@ -3,16 +3,55 @@ title: "Network Security Project"
 ---
 
 
-This project demonstrates my understanding of practical cybersecurity through building a complete penetration-testing environment using Kali Linux and Metasploitable 2.
-I created an isolated virtual lab where I performed vulnerability discovery, exploitation, and analysis in a controlled,
-ethical setting. Using tools such as Nmap and the Metasploit Framework, I scanned the target machine, identified outdated services,
-and exploited real security weaknesses like the vsftpd 2.3.4 backdoor. 
-After gaining remote shell access, I analyzed the system, reviewed user accounts and directories, and observed how insecure configurations can be abused by attackers. 
-The goal of the project was not only to execute successful exploits but also to understand the underlying risks and propose security improvements such as patching vulnerable services, 
-limiting open ports, and strengthening network configurations. 
-This hands-on experience gave me a strong foundation in ethical hacking, system hardening, and real-world network security practices.
+The objective of this project is to identify and exploit 
+vulnerabilities in network services running on a Metasploitable 
+virtual machine using the Metasploit Framework. The focus is 
+on performing initial reconnaissance, discovering potential 
+vulnerabilities, and executing exploits to gain unauthorized 
+access to the target machine.
 
+<br>
 
+Components used in the project:
+<br>1-VMware Workstation. 
+<br>2-Metasploitable. 
+<br>3-Kali Linux.
+
+<br>
+
+The initial step involved setting up the virtual environment to ensure 
+network communication between the Kali Linux and Metasploitable 
+virtual machines. 
+Kali Linux and Metasploitable were downloaded and configured using 
+VMwareWorkstation. 
+
+To identify open ports, services, and versions running on the 
+Metasploitable machine and detect potential vulnerabilities that can be 
+exploited. 
+We will use nmap which is a powerful network scanning tool used for 
+discovering hosts and services on a computer network, as well as 
+identifying vulnerabilities in services. 
+
+determine whether any of these services have known vulnerabilities. 
+This can be done by cross-referencing the service versions with known 
+exploits by Using the vulners Script in Nmap. 
+
+We are going to exploit the vsftpd so we use Metasploit and enter it by 
+typing msfconsle.
+
+We will choose the backdoor (exploit/unix/ftp/vsftpd_234_backdoor) 
+because the backdoor exploit allows you to gain unauthorized access to 
+the target system with root privileges. A DoS attack, on the other hand, 
+only disrupts the availability of the target service. It does not provide 
+access or control.
+
+Post-Exploitation:
+To ensure its successful we will get a command shell on the target 
+system. And we will ask him whoami. This should return root indicating 
+administrative privileges. And put ls to list all target’s directories
+
+We can also gather sensitive information about user credentials located 
+in /etc/passwd
 
 Screenshots
 {% include figure image_path="/assets/images/SohoProject/Soho1.png" caption="Home Page" %}
