@@ -14,7 +14,12 @@ This hands-on experience gave me a strong foundation in ethical hacking, system 
 
 
 
-
+Screenshots
+{% include figure image_path="/assets/images/SohoProject/Soho1.png" caption="Home Page" %}
+{% include figure image_path="/assets/images/SohoProject/Soho2.png" caption="Categories" %}
+{% include figure image_path="/assets/images/SohoProject/Soho3.png" caption="Product options" %}
+{% include figure image_path="/assets/images/SohoProject/Soho4.png" caption="Browsing" %}
+{% include figure image_path="/assets/images/SohoProject/Soho5.png" caption="Shopping cart" %}
 
 
 
