@@ -1,8 +1,13 @@
 ---
 title: "Network Security Project"
 ---
+This project demonstrates exploiting network services only for educational purposes.
 
-
+It was a practical project for Network Security subject.
+It was under the supervision of a certified teacher in my university AIU.
+Unauthorized exploiting of network services is illegal and unethical. 
+<br>
+<br>
 The objective of this project is to identify and exploit 
 vulnerabilities in network services running on a Metasploitable 
 virtual machine using the Metasploit Framework. The focus is 
