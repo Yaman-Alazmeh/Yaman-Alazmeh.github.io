@@ -1,1 +1,23 @@
-https://youtu.be/pJ1M2VLJJB0
+---
+title: "Twins Digital Twins"
+categories: [Game Dev, Unreal Engine]
+featured: /assets/images/project_re1.png
+---
+
+A third-person survival game built with Unreal Engine 4.  
+Features:
+- AI zombies
+- Companion AI bot
+- Inventory & shooting systems
+
+### Gameplay Video
+{% include video id="CTqqvaVKAJU" provider="youtube" %}
+
+{% include video id="pJ1M2VLJJB0" provider="youtube" %}
+
+
+### Screenshots
+{% include figure image_path="/assets/images/project_re1.png" caption="Main Gameplay" %}
+
+
+
