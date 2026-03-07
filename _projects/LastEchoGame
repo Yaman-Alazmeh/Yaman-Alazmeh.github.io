@@ -10,8 +10,43 @@ Features:
 - Companion AI bot
 - Inventory & shooting systems
 
+Today, artificial intelligence is transforming various fields of modern 
+technology, including the gaming industry. Gaming has become one of 
+the largest entertainment sectors, following movies and music, and is 
+widely consumed by people of all ages. While games range from simple 
+to highly complex, individuals with disabilities often face challenges in 
+playing competitive or intricate games. Additionally, traditional game 
+controls can limit the ability of players to issue real-time commands 
+efficiently. 
+In this paper, we present the integration of artificial intelligence and 
+gaming to enhance the overall player experience. Our approach enables 
+AI-assisted gameplay and voice-controlled interactions, allowing disabled 
+players to engage in competitive gaming on equal terms. By combining 
+AI voice recognition with character control, we introduce an accessible 
+and immersive gaming experience that improves interaction and 
+inclusivity for all players.
+
+This project was developed to bridge that gap, creating a high-quality 
+competitive 3D game that mirrors the excitement and complexity of 
+famous action games while incorporating AI-driven voice recognition to 
+enhance both strategy and accessibility.  that is both thrilling for regular 
+players and fully accessible to individuals who cannot use traditional 
+controllers.
+
+1. Players can control their character using voice commands instead 
+of traditional controllers and issue orders to bot. 
+2. Fast-paced and skill-based mechanics similar to popular 
+competitive shooter games. 
+3. Designed for both traditional gamers and people with disabilities. 
+4. AI-controlled enemies react intelligently to player actions. 
+5. Realistic Shooting and Combat System. 
+6. High-quality 3D environments with realistic textures and lighting. 
+7. Intuitive UI design for easy navigation and accessibility. 
+
+
 ### Gameplay Video
 {% include video id="CTqqvaVKAJU" provider="youtube" %}
+{% include video id="xt6quvjbp9A" provider="youtube" %}
 
 ### Screenshots
 {% include figure image_path="/assets/images/project_re1.png" caption="Main Gameplay" %}
