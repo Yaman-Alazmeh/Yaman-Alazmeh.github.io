@@ -29,7 +29,9 @@ human interaction in both personal and professional contexts.
 <br><br><br>
 
 ### Screenshots
-{% include figure image_path="/assets/images/project_re1.png" caption="Main Gameplay" %}
 
-
-
+{% include figure image_path="/assets/images/Twins/Twins1.png" caption="Sign in page" %}
+{% include figure image_path="/assets/images/Twins/Twins2.png" caption="Sign in page" %}
+{% include figure image_path="/assets/images/Twins/Twins3.png" caption="Sign in page" %}
+{% include figure image_path="/assets/images/Twins/Twins4.png" caption="Sign in page" %}
+{% include figure image_path="/assets/images/Twins/Twins5.png" caption="Sign in page" %}
