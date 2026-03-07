@@ -1,5 +1,6 @@
 ---
-title: "Resident Evil Style Survival Game"
+title: "Last Echo 
+An Interactive Voice Competitive 3D Game "
 categories: [Game Dev, Unreal Engine]
 featured: /assets/images/project_re1.png
 ---
@@ -45,7 +46,7 @@ competitive shooter games.
 
 
 ### Gameplay Video
-{% include video id="CTqqvaVKAJU" provider="youtube" %}
+{% include video id="Fz6hCaQfiGk" provider="youtube" %}
 {% include video id="xt6quvjbp9A" provider="youtube" %}
 
 ### Screenshots
