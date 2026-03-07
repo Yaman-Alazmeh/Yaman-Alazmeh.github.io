@@ -1,14 +1,27 @@
 ---
-title: "Twins Digital Twins"
+title: "Twins A Digital Human Twins Project"
 categories: [Game Dev, Unreal Engine]
 featured: /assets/images/project_re1.png
 ---
 
-A third-person survival game built with Unreal Engine 4.  
-Features:
-- AI zombies
-- Companion AI bot
-- Inventory & shooting systems
+As artificial intelligence continues to evolve, the line between human and 
+machine interaction grows increasingly blurred. This project introduces a 
+system for constructing personalized human digital twins AI-driven. 
+Virtual avatars that emulate a user’s personality, communication style, 
+and emotional depth within a shared 3D environment. Through fine
+tuning compact language models on social dialogue, MBTI personalities, 
+and real user data, the system achieves coherent, emotionally aware 
+responses that reflect the essence of the individual. These digital twins 
+support both voice and text communication and are embedded in a virtual 
+city environment built with Unreal Engine, complete with realistic 
+MetaHuman avatars, facial animation, and voice cloning. The system 
+integrates memory modules, emotional sentiment tracking, and 
+reinforcement-based response selection to offer persistent, believable 
+interaction. This project demonstrates the potential of digital twins for 
+preserving identity, enhancing social presence, and enabling continuous 
+human interaction in both personal and professional contexts. 
+
+<br><br><br>
 
 ### Demo Video
 <br><br><br>
