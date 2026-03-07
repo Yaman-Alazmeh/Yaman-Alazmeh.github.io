@@ -1,1 +1,12 @@
-https://youtu.be/zMm91I30OEw
+---
+title: "Algorithms Analysis & Design Project"
+categories: [Game Dev, Unreal Engine]
+featured: /assets/images/project_re1.png
+---
+
+
+
+
+### Gameplay Video
+{% include video id="zMm91I30OEw" provider="youtube" %}
+
