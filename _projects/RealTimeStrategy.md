@@ -20,6 +20,6 @@ and nothing of substance happens.
 
 
 ### Screenshots
-{% include figure image_path="/assets/images/RTS/RTS1.png" }
-{% include figure image_path="/assets/images/RTS/RTS2.png" }
-{% include figure image_path="/assets/images/RTS/RTS3.png" }
+{% include figure image_path="/assets/images/RTS/RTS1.png" %}
+{% include figure image_path="/assets/images/RTS/RTS2.png" %}
+{% include figure image_path="/assets/images/RTS/RTS3.png" %}
