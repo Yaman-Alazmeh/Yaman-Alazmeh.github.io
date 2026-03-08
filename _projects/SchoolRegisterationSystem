@@ -1,1 +1,81 @@
-dfds
+---
+title: "SchoolRegisterationSystem "
+categories: [Game Dev, Unreal Engine]
+featured: /assets/images/project_re1.png
+---
+This project was done in a Software engineering 2 lab.
+Using the cody methode and black testing i came up with accuracy of 97.4% using KRNN algorithm.
+Abstract:
+A school system backend manages data for students, teachers, classes, and grades, typically using
+REST APIs with Node.js/Express, Python/Django, or PHP/Laravel, combined with databases like PostgreSQL or MongoDB. Key functionalities include role-based authentication
+(admin, teacher, student), CRUD operations for user records, attendance tracking, and reporting.
+
+
+Core Backend Components & Technology Stack:
+API Development: Node.js + Express.js (TypeScript), PHP, or ASP.NET Core 8.0.
+Database Management: PostgreSQL (often with Prisma ORM or TypeORM) or MongoDB (MERN stack).
+Authentication: JWT (JSON Web Tokens) for secure, role-based access.
+Key Entities (Schema Design):
+Users: Admin, Teachers, Students, Parents.
+Academic: Classes, Subjects, Lessons, Exams, Assignments.
+Operational: Attendance, Timetables, Fees.
+
+
+// Example: Creating a Student record using Express and Prisma
+import { PrismaClient } from '@prisma/client';
+import express from 'express';
+
+const prisma = new PrismaClient();
+const app = express();
+app.use(express.json());
+
+// Create a new student
+app.post('/api/students', async (req, res) => {
+  const { name, email, classId } = req.body;
+  try {
+    const student = await prisma.student.create({
+      data: { name, email, classId },
+    });
+    res.status(201).json(student);
+  } catch (error) {
+    res.status(400).json({ error: "Unable to create student" });
+  }
+});
+
+app.listen(3000, () => console.log('Server running on port 3000'));
+
+
+
+Common Backend Features
+CRUD Operations: Creating, reading, updating, and deleting records for teachers, students, and classes.
+Attendance System: Tracking daily attendance.
+Analytics: Displaying student performance graphs, teacher salary expenses, and fee collection reports.
+File Management: Handling uploads for student avatars or assignment submissions (e.g., Cloudinary).
+Push Notifications: Using services like Firebase for updates
+
+/src
+  /config      # Database configuration
+  /controllers # Request handlers (e.g., studentController.js)
+  /routes      # API route definitions (e.g., studentRoutes.js)
+  /models      # Schema definitions
+  /middleware  # Authentication/role checking
+
+
+1. Core Backend Architecture
+A standard school management backend is often built using a RESTful API architecture
+
+Models/Schemas: Defines data structures like Student (name, email, roll number), Teacher (specialization, schedule), and Course.
+Controllers: Logic for handling requests like "Enroll a student" or "Post grades".
+Authentication: Role-based access control (RBAC) to ensure a student cannot change their own grades. 
+
+2. Implementation Examples by Language
+Depending on your tech stack, you can find full-source code on GitHub: 
+Node.js (MERN Stack): A popular choice using Express and MongoDB. You can find comprehensive implementations like the MERN-School-Management-System which includes specific logic for admin-teacher-student roles.
+PHP (Laravel): For a structured MVC approach, the Laravel School Management Backend provides pre-built migrations and seeders for school databases.
+Java: For enterprise-grade systems, tutorials on TechVidvan walk through building a student management system using Java and SQLite. 
+
+3. Essential Database Schema
+A basic Back4app School Schema should include these relational tables: 
+Users: ID, Name, Email, Password (hashed), Role (Admin/Teacher/Student).
+Classroom: ID, Subject, TeacherID, RoomNumber.
+Enrollments: StudentID, ClassroomID, Grade, AttendanceCount. 
