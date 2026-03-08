@@ -6,6 +6,6 @@ permalink: /contact/
 
 ## Contact
 
-Email: your-email@example.com
+Email: yaman.azmeh@gmail.com
 
-LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+LinkedIn: [Your LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/yaman-alazmeh-643799276))
