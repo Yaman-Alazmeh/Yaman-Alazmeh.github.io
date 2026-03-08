@@ -20,11 +20,11 @@ controllers.
 
 
 ### Screenshots
-{% include figure image_path="/assets/images/WarofRobots/WarofRobots1.png" caption="Home Page" %}
-{% include figure image_path="/assets/images/WarofRobots/WarofRobots2.png" caption="Home Page" %}
-{% include figure image_path="/assets/images/WarofRobots/WarofRobots3.png" caption="Home Page" %}
-{% include figure image_path="/assets/images/WarofRobots/WarofRobots4.png" caption="Home Page" %}
-{% include figure image_path="/assets/images/WarofRobots/WarofRobots5.png" caption="Home Page" %}
-{% include figure image_path="/assets/images/WarofRobots/WarofRobots6.png" caption="Home Page" %}
-{% include figure image_path="/assets/images/WarofRobots/WarofRobots7.png" caption="Home Page" %}
+{% include figure image_path="/assets/images/WarOfRobots/WarOfRobots1.png" }
+{% include figure image_path="/assets/images/WarOfRobots/WarOfRobots2.png" }
+{% include figure image_path="/assets/images/WarOfRobots/WarOfRobots3.png" }
+{% include figure image_path="/assets/images/WarOfRobots/WarOfRobots4.png" }
+{% include figure image_path="/assets/images/WarOfRobots/WarOfRobots5.png" }
+{% include figure image_path="/assets/images/WarOfRobots/WarOfRobots6.png" }
+{% include figure image_path="/assets/images/WarOfRobots/WarOfRobots7.png" }
 
