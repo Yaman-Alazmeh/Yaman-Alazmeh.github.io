@@ -20,4 +20,11 @@ controllers.
 
 
 ### Screenshots
-{% include figure image_path="/assets/images/project_re1.png" caption="Main Gameplay" %}
+{% include figure image_path="/assets/images/WarofRobots/WarofRobots1.png" caption="Home Page" %}
+{% include figure image_path="/assets/images/WarofRobots/WarofRobots2.png" caption="Home Page" %}
+{% include figure image_path="/assets/images/WarofRobots/WarofRobots3.png" caption="Home Page" %}
+{% include figure image_path="/assets/images/WarofRobots/WarofRobots4.png" caption="Home Page" %}
+{% include figure image_path="/assets/images/WarofRobots/WarofRobots5.png" caption="Home Page" %}
+{% include figure image_path="/assets/images/WarofRobots/WarofRobots6.png" caption="Home Page" %}
+{% include figure image_path="/assets/images/WarofRobots/WarofRobots7.png" caption="Home Page" %}
+
