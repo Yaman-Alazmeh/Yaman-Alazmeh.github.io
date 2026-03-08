@@ -8,7 +8,7 @@ Using the cody methode and black testing i came up with accuracy of 97.4% using 
 Abstract:
 A school system backend manages data for students, teachers, classes, and grades, typically using
 REST APIs with Node.js/Express, Python/Django, or PHP/Laravel, combined with databases like PostgreSQL or MongoDB. Key functionalities include role-based authentication
-(admin, teacher, student), CRUD operations for user records, attendance tracking, and reporting.
+(admin, teacher, student),, CRUD operations for user records, attendance tracking, and reporting.
 
 
 Core Backend Components & Technology Stack:
