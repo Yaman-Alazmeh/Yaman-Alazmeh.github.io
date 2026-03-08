@@ -15,7 +15,7 @@ Includes classrooms, lecture halls, hallways, offices, cafeteria (canteen), rest
 
 Interactive Classrooms,
 
-Classroom doors can open and close,
+Classroom doors can open and close
 
 Chairs have movable arms that can be raised/lowered,
 
