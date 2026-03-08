@@ -1,0 +1,2 @@
+{% include figure image_path="/assets/images/Subway/Subway1.png" caption="Home Page" %}
+{% include figure image_path="/assets/images/Subway/Subway2.png" caption="Home Page" %}
