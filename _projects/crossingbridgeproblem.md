@@ -54,7 +54,7 @@ This approach minimizes the total time (e.g., 17 seconds in a typical case).
 
 -Ability to translate theoretical problems into interactive simulations
 
--Use of Unreal Engine beyond games — for algorithm visualization and problem solving
+-Use of Unreal Engine beyond games for algorithm visualization and problem solving
 
 
 
