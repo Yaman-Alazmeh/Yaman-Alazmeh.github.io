@@ -6,7 +6,7 @@ featured: /assets/images/project_re1.png
 
 This project is a simulation of the classic “Bridge and Torch” problem, it's a university project for the "Algorithms analysis & design" subject. It was implemented using Unreal Engine. The goal was to visualize and solve the problem using the Greedy Algorithm, demonstrating both algorithmic thinking and real-time simulation.
 
-Problem Overview:
+*Problem Overview:*
 
 A group of people must cross a bridge at night with only one torch available. The constraints are:
 
@@ -60,6 +60,6 @@ This Project Demonstrates:
 
 
 
-### Gameplay Video
+### Simulation Video
 {% include video id="zMm91I30OEw" provider="youtube" %}
 
