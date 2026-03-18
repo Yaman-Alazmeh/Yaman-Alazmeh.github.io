@@ -27,6 +27,6 @@ Additionally, the system supports selling buildings by casting a ray toward sele
 The camera system was designed to match traditional RTS controls, allowing players to smoothly zoom, rotate, and navigate the environment.
 
 ### Screenshots
-{% include figure image_path="/assets/images/RTS/RTS1.png" caption="Builing bar"%}
-{% include figure image_path="/assets/images/RTS/RTS2.png" caption="Builing that were put in the map"%}
+{% include figure image_path="/assets/images/RTS/RTS1.png" caption="Building bar"%}
+{% include figure image_path="/assets/images/RTS/RTS2.png" caption="Building that were put in the map"%}
 {% include figure image_path="/assets/images/RTS/RTS3.png" caption="Selling a building"%}
