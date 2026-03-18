@@ -8,13 +8,13 @@ A real-time strategy (RTS) building system developed in Unreal Engine 4, inspire
 
 Key Features:
 
-Mouse-based controls for intuitive gameplay
+-Mouse-based controls for intuitive gameplay
 
-Real-time building placement system
+-Real-time building placement system
 
-Ability to construct and sell buildings dynamically
+-Ability to construct and sell buildings dynamically
 
-Camera controls including zooming and rotation
+-Camera controls including zooming and rotation
 
 Overview:
 
