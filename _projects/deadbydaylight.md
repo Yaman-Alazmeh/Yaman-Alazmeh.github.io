@@ -1,5 +1,5 @@
 ---
-title: "DeadByDaylight"
+title: "Generator Interactive System"
 categories: [Game Dev, Unreal Engine]
 featured: /assets/images/project_re1.png
 ---
@@ -18,3 +18,8 @@ This project was developed to develop similar systems to the famous survival gam
 {% include figure image_path="/assets/images/DeadByDaylight/DeadByDaylight1.png" caption="Home Page" %}
 {% include figure image_path="/assets/images/DeadByDaylight/DeadByDaylight2.png" caption="Home Page" %}
 {% include figure image_path="/assets/images/DeadByDaylight/DeadByDaylight3.png" caption="Home Page" %}
+
+
+
+
+https://www.youtube.com/watch?v=K24nphr32NA
