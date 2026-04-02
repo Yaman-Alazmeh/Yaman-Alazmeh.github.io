@@ -2,13 +2,14 @@
 title: "Generator Interactive System"
 categories: [Game Dev, Unreal Engine]
 featured: /assets/images/project_re1.png
+last_modified_at: false
 ---
 A third-person survival gameplay system built in Unreal Engine 4, inspired by mechanics from Dead by Daylight. This project focuses on recreating core interaction systems between the survivor and generator.
-A third-person DeadByDaylight theme game built with Unreal Engine 4. 
+A third-person DeadByDaylight theme game built with Unreal Engine. 
 
-Key Features:
+**Key Features:**
 
--Repairing generators through interactive mechanics
+-Repairing generators through interactive mechanics<br>
 -Opening exit gates to complete objectives
 
 
@@ -18,14 +19,14 @@ A key mechanic in this system is the Skill Check mini-game, which is triggered w
 
 The skill check consists of a circular interface with a rotating indicator and a highlighted success zone. The player must stop the moving indicator at the correct moment within this zone to successfully pass the check.
 
-✔ Successful attempt: Progress on the generator continues
-❌ Failed attempt: The generator’s progress decreases
+✔ *Successful attempt*: Progress on the generator continues<br>
+❌ *Failed attempt*: The generator’s progress decreases
 
 Skill checks occur at regular intervals, requiring the player to consistently react and maintain focus. Successfully completing all required skill checks allows the player to fully repair the generator.
 
 Once a generator is completed, it reduces the total number of remaining generators needed to unlock the exit gates, bringing the player closer to escaping the killer.
 
-Demonstration
+**Demonstration**
 
 The following video demonstrates how the Skill Check system works in Dead by Daylight:
 
