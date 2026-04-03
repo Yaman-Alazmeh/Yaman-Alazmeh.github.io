@@ -5,12 +5,13 @@ featured: /assets/images/project_re1.png
 ---
 
 A Third-Person Survival Combat Game 
-**Features:**
--*AI-controlled enemies with different behaviors*
--*Melee combat system with multiple attack types*
--*Shop and upgrade system*
--*Player stats system (health & stamina)*
--*Interactive 3D environment*
+**Features:** <br>
+-*AI-controlled enemies with different behaviors* <br>
+-*Melee combat system with multiple attack types* <br>
+-*Shop and upgrade system* <br>
+-*Player stats system (health & stamina)* <br>
+-*Interactive 3D environment* <br>
+-*Interactive Widgets and HUD. <br>
 
 **Overview**
 
