@@ -4,8 +4,8 @@ categories: [Game Dev, Unreal Engine]
 featured: /assets/images/project_re1.png
 ---
 
-A Third-Person Survival Combat Game 
-**Features:** <br>
+A Third-Person Survival Combat Game created using Unreal Engine 
+**Features:** <br><br>
 -*AI-controlled enemies with different behaviors* <br>
 -*Melee combat system with multiple attack types* <br>
 -*Shop and upgrade system* <br>
