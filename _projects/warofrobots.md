@@ -3,6 +3,10 @@ title: "WarOfRobots "
 categories: [Game Dev, Unreal Engine]
 featured: /assets/images/project_re1.png
 ---
+{% include figure image_path="/assets/images/WarOfRobots/WarOfRobots2.png" %}
+
+<br><br>
+
 
 A Third-Person Survival Combat Game created using Unreal Engine 
 **Features:** <br><br>
@@ -35,7 +39,7 @@ The aim of this project was to create a competitive and engaging 3D combat exper
 
 ### Screenshots
 {% include figure image_path="/assets/images/WarOfRobots/WarOfRobots1.png" %}
-{% include figure image_path="/assets/images/WarOfRobots/WarOfRobots2.png" %}
+
 {% include figure image_path="/assets/images/WarOfRobots/WarOfRobots3.png" %}
 {% include figure image_path="/assets/images/WarOfRobots/WarOfRobots4.png" %}
 {% include figure image_path="/assets/images/WarOfRobots/WarOfRobots5.png" %}
