@@ -6,12 +6,11 @@ An endless runner game developed in Unreal Engine, focused on fast-paced gamepla
 <br>
 **Key Features:**
 <br>
-
-*-Endless tile-based level generation*
-*-Dynamic obstacle spawning*
-*-Progressive speed increase for difficulty scaling*
-*-Coin collection system*
-*-Simple and intuitive HUD*
+*-Endless tile-based level generation*<br>
+*-Dynamic obstacle spawning*<br>
+*-Progressive speed increase for difficulty scaling*<br>
+*-Coin collection system*<br>
+*-Simple and intuitive HUD*<br>
 
 <br>
 **Overview**
@@ -22,21 +21,21 @@ The environment is built using a tile-based system that spawns new segments seam
 
 As the game progresses, the player’s speed gradually increases, making the gameplay more challenging over time.
 <br>
-**Procedural Tile Spawning:** Ensures a continuous and varied environment
-**Obstacle System:** Randomized placement to keep gameplay unpredictable
-**Coin System:** Players can collect coins scattered across the level
-**HUD**: Displays score, distance, and basic game information
+**Procedural Tile Spawning:** Ensures a continuous and varied environment<br>
+**Obstacle System:** Randomized placement to keep gameplay unpredictable<br>
+**Coin System:** Players can collect coins scattered across the level<br>
+**HUD**: Displays score, distance, and basic game information<br>
 
 <br>
 
 The goal of this project was to design a smooth and scalable endless runner system while focusing on performance, replayability, and engaging gameplay mechanics.
 
 <br>
-***Screenshots***
+**Screenshots**
 
-{% include figure image_path="/assets/images/Subway/Subway1.png" caption="Home Page" %}
-{% include figure image_path="/assets/images/Subway/Subway2.png" caption="Home Page" %}
+{% include figure image_path="/assets/images/Subway/Subway1.png" caption="Gameplay" %}
+{% include figure image_path="/assets/images/Subway/Subway2.png" caption="HUD" %}
 
-***Video***
+**Video**
 
 {% include video id="08S-1W60HRw" provider="youtube" %}
