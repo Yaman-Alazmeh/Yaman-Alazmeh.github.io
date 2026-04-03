@@ -4,19 +4,32 @@ categories: [Game Dev, Unreal Engine]
 featured: /assets/images/project_re1.png
 ---
 
-A third-person survival game built with Unreal Engine 4.  
-Features:
-- AI Enimies
-- Companion AI bot
-- Inventory & shooting systems
+A Third-Person Survival Combat Game 
+**Features:**
+-*AI-controlled enemies with different behaviors*
+-*Melee combat system with multiple attack types*
+-*Shop and upgrade system*
+-*Player stats system (health & stamina)*
+-*Interactive 3D environment*
 
+**Overview**
 
-This project was developed to bridge that gap spider shooter - spidder bomb - hammer- whirl wind attack - base attack- wrist attack, creating a high-quality 
-competitive 3D game that mirrors the excitement and complexity of 
-famous action games while incorporating AI-driven voice recognition to 
-enhance both strategy and accessibility.  that is both thrilling for regular 
-players and fully accessible to individuals who cannot use traditional 
-controllers.
+This project focuses on building a complete third-person combat experience within a 3D environment. The player controls a robot character capable of walking, running, jumping, and performing three unique combat moves: a base attack, a wrist attack, and a whirlwind ability.
+
+The player must manage health and stamina, which directly affect combat performance and survivability. A central base acts as a safe zone where the player can restore health and stamina, as well as upgrade abilities using coins collected throughout the map.
+
+**Gameplay & Systems**
+
+The game features multiple enemy types designed to create varied combat scenarios:
+
+Explosive spider enemies that rush the player and detonate on contact
+Ranged enemies that attack from a distance using projectiles
+
+This creates a balance between close-range and strategic combat.
+
+Additionally, the project explores the concept of accessibility by integrating AI-driven voice recognition, allowing players to interact with the game using voice commands. This makes the experience more inclusive for players who cannot use traditional controllers, while also adding a unique strategic layer to gameplay.
+
+The aim of this project was to create a competitive and engaging 3D combat experience inspired by modern action games, while also experimenting with accessibility features and intelligent systems.
 
 
 ### Screenshots
@@ -28,3 +41,9 @@ controllers.
 {% include figure image_path="/assets/images/WarOfRobots/WarOfRobots6.png" %}
 {% include figure image_path="/assets/images/WarOfRobots/WarOfRobots7.png" %}
 
+<br>
+
+### Video
+
+<br>
+{% include video id="_WIAOtuPXAM" provider="youtube" %}
