@@ -11,7 +11,7 @@ A Third-Person Survival Combat Game created using Unreal Engine
 -*Shop and upgrade system* <br>
 -*Player stats system (health & stamina)* <br>
 -*Interactive 3D environment* <br>
--*Interactive Widgets and HUD. <br>
+-*Interactive Widgets and HUD* <br>
 
 **Overview**
 
