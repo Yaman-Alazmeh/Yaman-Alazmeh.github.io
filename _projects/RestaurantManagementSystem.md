@@ -26,7 +26,7 @@ This project models a complete restaurant workflow, starting from customer order
 
 Customers can browse the menu and place orders through the system. Once an order is submitted, it is sent to the Captain, who is responsible for managing incoming orders.
 <br><br>
-**Workflow:** <br>
+**Workflow:**<br>
 -The Customer places an order<br>
 -The order appears in the Captain’s dashboard<br>
 -The Captain can accept or decline the order<br>
