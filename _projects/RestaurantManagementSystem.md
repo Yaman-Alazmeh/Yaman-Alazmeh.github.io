@@ -26,15 +26,15 @@ This project models a complete restaurant workflow, starting from customer order
 
 Customers can browse the menu and place orders through the system. Once an order is submitted, it is sent to the Captain, who is responsible for managing incoming orders.
 <br><br>
-**Workflow** <br>
+**Workflow:** <br>
 -The Customer places an order<br>
 -The order appears in the Captain’s dashboard<br>
 -The Captain can accept or decline the order<br>
 -The Employee manages the menu by:<br>
-   -Adding new meals<br>
-   -Editing existing meals<br>
-   -Deleting meals<br>
-   -Updating meal availability<br>
+   1-Adding new meals<br>
+   2-Editing existing meals<br>
+   3-Deleting meals<br>
+   4-Updating meal availability<br>
 
 <br>
 The goal of this project was to build a multi-user, 
