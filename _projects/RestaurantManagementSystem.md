@@ -5,7 +5,7 @@ featured: /assets/images/project_re1.png
 ---
 A web-based restaurant management system developed using Laravel (MVC architecture) and MySQL as part of a Web Engineering lab. 
 The system supports multiple user roles and simulates real-world restaurant operations.
-<br>
+<br><br>
 **Technologies Used:**
 <br>
 -Laravel (MVC)<br>
@@ -13,20 +13,20 @@ The system supports multiple user roles and simulates real-world restaurant oper
 -MySQL<br>
 -Bootstrap<br>
 <br>
-**Key Features:**
+**Key Features:**<br>
 - Role-based system (Customer, Captain, Employee)<br>
 - Order management workflow<br>
 - Menu management (add, edit, delete meals)<br>
 - Real-time order handling<br>
 - Meal availability control<br>
+<br>
 
-
-**System Overview**
+**System Overview**<br>
 <br>
 This project models a complete restaurant workflow, starting from customer orders to kitchen and staff management.
 
 Customers can browse the menu and place orders through the system. Once an order is submitted, it is sent to the Captain, who is responsible for managing incoming orders.
-
+<br>
 **Workflow** <br>
 -The Customer places an order<br>
 -The order appears in the Captain’s dashboard<br>
