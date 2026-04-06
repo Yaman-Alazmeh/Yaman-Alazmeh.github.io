@@ -1,7 +1,7 @@
 ---
 title: "Twins A Digital Human Twins Project"
 categories: [Game Dev, Unreal Engine]
-featured: /assets/images/project_re1.png
+featured: /assets/images/Twins/Twins2.png
 ---
 
 As artificial intelligence continues to evolve, the line between human and 
@@ -61,33 +61,33 @@ Key features include: <br><br>
 Users can create a fully customized digital twin that mimics their personality, voice, 
 communication style, and way of thinking. This avatar is trained to reflect the user's 
 ideas, tone, and responses, offering a highly personalized and lifelike experience.
-- Autonomous Communication <br><br>
+- Autonomous Communication <br>
 The digital twin can independently interact with others on the user's behalf, holding 
 conversations, answering questions, and sharing opinions—making it possible for 
 users to remain present even when they are unavailable. <br>
-- Voice and Chat Interaction <br><br>
+- Voice and Chat Interaction <br>
 Users can engage with other digital twins through voice or text, enabling meaningful 
 exchanges of ideas, life updates, and emotional connections. The system supports 
 both synchronous and asynchronous communication. 
-- Immersive 3D Virtual World <br><br>
+- Immersive 3D Virtual World <br>
 All interactions take place in a visually rich and immersive 3D city, where users and 
 their digital twins can walk, explore, meet, and communicate in dynamic virtual 
 environments that simulate real-world social interaction. <br>
-- Context-Aware Conversations <br><br>
+- Context-Aware Conversations <br>
 Each digital twin can maintain memory and context about its user’s life, allowing it to 
 represent not only personality but also current life events, preferences, and 
 perspectives. 
-- Multi-Purpose Usage <br><br>
+- Multi-Purpose Usage <br>
 Beyond personal use, digital twins created in this platform can be integrated into other 
 projects, including educational simulations, storytelling, mentorship environments, 
 and virtual memorials. <br>
-- Emotional and Voice Realism <br><br>
+- Emotional and Voice Realism <br>
 With advanced voice synthesis and expression systems, digital twins can replicate 
 emotional tones and facial animations. making conversations feel realistic and 
 engaging.<br>
 <br>
 ### Demo Video
-<br><br><br>
+<br>
 {% include video id="pJ1M2VLJJB0" provider="youtube" %}
 <br><br>
 ### Screenshots
