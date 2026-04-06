@@ -3,5 +3,24 @@ title: "RestaurantManagementSystem "
 categories: [Game Dev, Unreal Engine]
 featured: /assets/images/project_re1.png
 ---
-This project was done in a Software engineering 2 lab.
+This project was done in a web engineering lab using laravel mvc and mysql to make a restaurant mangment system there are different users from customer to employee to captain
+the user orders something and the order appear to the captain in list of orders he can accept or decline
+the employee edit delete add meals and edit the availbilty of the meal
 
+
+
+
+
+
+
+
+
+
+{% include figure image_path="/assets/images/UniversityRegisteration/wbe8.png" caption="ERD" %}
+{% include figure image_path="/assets/images/UniversityRegisteration/wbe1.png" caption="Use case diagram" %}
+{% include figure image_path="/assets/images/UniversityRegisteration/wbe2.png" caption="Use case diagram" %}
+{% include figure image_path="/assets/images/UniversityRegisteration/wbe3.png" caption="Use case diagram" %}
+{% include figure image_path="/assets/images/UniversityRegisteration/wbe4.png" caption="Use case diagram" %}
+{% include figure image_path="/assets/images/UniversityRegisteration/wbe5.png" caption="Use case diagram" %}
+{% include figure image_path="/assets/images/UniversityRegisteration/wbe6.png" caption="Use case diagram" %}
+{% include figure image_path="/assets/images/UniversityRegisteration/wbe7.png" caption="Use case diagram" %}
