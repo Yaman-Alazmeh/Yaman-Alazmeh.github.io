@@ -35,7 +35,7 @@ Up to 18 credits for GPA < 3.0
 -It also recommends courses if a student has previously failed a subject, helping guide academic progress.
 
 
-***Student Workflow***<br>
+**Student Workflow**<br>
 1. The student logs into the system<br>
 2. Views available courses and allowed credit hours<br>
 3. Selects subjects and corresponding classes (theoretical & practical)<br>
@@ -43,7 +43,7 @@ Up to 18 credits for GPA < 3.0
 5. Registers a minimum of 12 credits before submission<br>
 6. Finalizes registration within the allowed credit range (18–21 max)<br>
 
-***Once confirmed:***
+**Once confirmed:**
 
 1. The system calculates total fees based on credit hours<br>
 2. Automatically deducts the amount from the student’s account (e.g., bank or e-wallet)<br>
